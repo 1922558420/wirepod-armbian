@@ -1,5 +1,7 @@
 # Wire‑Pod Armbian 中国环境适配版
 
+[English](README.en.md) · 简体中文
+
 这是面向中国用户和国内网络环境修改的 [Wire‑Pod](https://github.com/kercre123/wire-pod)，适合在 Armbian ARM64 小主机上通过 Docker 部署。支持 Anki Vector 1.0 和 2.0，在局域网内提供语音指令服务。
 
 ## 国内环境适配
